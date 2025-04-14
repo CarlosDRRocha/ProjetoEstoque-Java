@@ -8,7 +8,7 @@ Projeto Pessoal para estudos de tecnologias JAVA.
 <br>
 
 <p align="center">
-  <img alt="Layout Dev Links" src="./github/preview.jpg" width="100%">
+  <img alt="Layout Dev Links" src="./github/Estoque.jpg" width="100%">
 </p>
 
 🛠 Tecnologias
