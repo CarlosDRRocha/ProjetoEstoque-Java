@@ -7,10 +7,6 @@ Projeto Pessoal para estudos de tecnologias JAVA.
 
 <br>
 
-<p align="center">
-  <img alt="Estoque" src="carlosdrrocha/ProjetoEstoque-Java/github/Estoque.jpg" width="100%">
-</p>
-
 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
